@@ -1,0 +1,126 @@
+{
+  "configVersion": 1,
+  "timestamp": 1580642488920,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.15e66ba559251902bf5d.js",
+        "/main-es5.15e66ba559251902bf5d.js",
+        "/polyfills-es2015.2987770fde9daa1d8a2e.js",
+        "/polyfills-es5.6696c533341b95a3d617.js",
+        "/runtime-es2015.edb2fcf2778e7bf1d426.js",
+        "/runtime-es5.edb2fcf2778e7bf1d426.js",
+        "/styles.49d133be8bd0ffe30f6b.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/images/APPLE DIAGNOSIS.png",
+        "/assets/images/Apple Macbook.svg",
+        "/assets/images/AppleFamily2.jpg",
+        "/assets/images/apple-diagnosis-apple-part-at-dealer-price.jpg",
+        "/assets/images/apple-diagnosis-kandivali-west.png",
+        "/assets/images/apple-macbook-charger-apple-diagonosis.jpg",
+        "/assets/images/appleDiagnosis-small.png",
+        "/assets/images/apple_devices.svg",
+        "/assets/images/battery-replace.jpg",
+        "/assets/images/catelina-apple-diagnosis.jpg",
+        "/assets/images/contact_us.svg",
+        "/assets/images/facebook.png",
+        "/assets/images/globe.svg",
+        "/assets/images/gmail.png",
+        "/assets/images/imac_repiar.svg",
+        "/assets/images/iphone-ipad.svg",
+        "/assets/images/logo_mini.ico",
+        "/assets/images/logo_mini.png",
+        "/assets/images/macbook-air-keyboard-apple-diagnosis.jpg",
+        "/assets/images/macbook-broken.jpg",
+        "/assets/images/macbook-new.png",
+        "/assets/images/macbook_gallery.jpg",
+        "/assets/images/macbook_problem.svg",
+        "/assets/images/macbook_repiar.svg",
+        "/assets/images/map.PNG",
+        "/assets/images/no-fix-no-fee.jpg",
+        "/assets/images/partnership.svg",
+        "/assets/images/profile.svg",
+        "/assets/images/review.svg",
+        "/assets/images/shop.svg",
+        "/assets/images/whatsapp.png",
+        "/assets/styles/animate.css"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/images/APPLE DIAGNOSIS.png": "6d48d07225ebb4ce7772dd9ecb7b55a5da403e97",
+    "/assets/images/Apple Macbook.svg": "2973806ff5baca747b1f4ecdf1c0b75cce4852ea",
+    "/assets/images/AppleFamily2.jpg": "765e7388b8827b456f1fc957378a34f595ec7a3a",
+    "/assets/images/apple-diagnosis-apple-part-at-dealer-price.jpg": "d48ec209ddd619ddc520d2d71846e2e8e948f9ff",
+    "/assets/images/apple-diagnosis-kandivali-west.png": "a578bab4fdaf2ded00dde26fb5d639924d8ea677",
+    "/assets/images/apple-macbook-charger-apple-diagonosis.jpg": "b4902fcdd9056adc134747575beacc207fc06b94",
+    "/assets/images/appleDiagnosis-small.png": "14bcd277fb1f3aa1336e0755a08f87746a39b901",
+    "/assets/images/apple_devices.svg": "9720658bb8c74448e61ad4e40a6d84cefc5d6484",
+    "/assets/images/battery-replace.jpg": "e2fdba783ef896382e7764fc60374f0ef65ad5a3",
+    "/assets/images/catelina-apple-diagnosis.jpg": "d8e52569cd02a6b4acb25f502028560c9a5f3e1e",
+    "/assets/images/contact_us.svg": "e4a700fea0734fc42567aeeeb77ed5e8f8527250",
+    "/assets/images/facebook.png": "4fb1ae1da95ad76bd239a757e38e7ab1d4601038",
+    "/assets/images/globe.svg": "512fa91b8cc0274459ad334c33d18a77feb1bf12",
+    "/assets/images/gmail.png": "390c2c4e31664cf641a25ec1a5292e50633962db",
+    "/assets/images/imac_repiar.svg": "aee172ed37353e42f6101a14376dd590e5c7fd68",
+    "/assets/images/iphone-ipad.svg": "e21bec04aae2517b597b94040f86b994703e7213",
+    "/assets/images/logo_mini.ico": "06652b2a6a6be16d5a4e6d8d6da89bfd9243f4a8",
+    "/assets/images/logo_mini.png": "aba67e31a6f6c58c4003287a39c96e1e6053cfd5",
+    "/assets/images/macbook-air-keyboard-apple-diagnosis.jpg": "236317ec1b3ad6e5bdfe0e72135357fc61c893db",
+    "/assets/images/macbook-broken.jpg": "2abce19283474950f23d673925b03a6ba5a9cf64",
+    "/assets/images/macbook-new.png": "979fcdadf74a39f6d402edb713f2944e353cdd1a",
+    "/assets/images/macbook_gallery.jpg": "a3b620b3fb265b0e7c76412a31145cde208c3c00",
+    "/assets/images/macbook_problem.svg": "87ba1f923b9bfd0484fc2f79f66b2aa3e593e873",
+    "/assets/images/macbook_repiar.svg": "ebe0ceb496454911dc6ed825a04f400a60491109",
+    "/assets/images/map.PNG": "da4a59bb6404d46379bb6bd88a02e0301fcd7c61",
+    "/assets/images/no-fix-no-fee.jpg": "76fde9a17ff8637bf5cb5dae0acae8b5658c35fb",
+    "/assets/images/partnership.svg": "aec78b66258fc91d691f3469a56b8c8746ef1b9c",
+    "/assets/images/profile.svg": "63b4fefe049c6bb27e7215723e36c427a9fca9b7",
+    "/assets/images/review.svg": "01dd75ca3bada29a03559bd8d7dbee8c1b15c21c",
+    "/assets/images/shop.svg": "b0c404cd86c5457f65880de05221b6b8abd3994e",
+    "/assets/images/whatsapp.png": "976dd03095a37d18cfe220fce5ff4870229be39c",
+    "/assets/styles/animate.css": "77b5378a2b4bfc120e52782dd869aeab7efe2fd4",
+    "/favicon.ico": "06652b2a6a6be16d5a4e6d8d6da89bfd9243f4a8",
+    "/index.html": "ee43695d8bb41e05482400b93720f9b4ab29c866",
+    "/main-es2015.15e66ba559251902bf5d.js": "a808223f59f736ceb50b4fa6f6a3c52dc195da53",
+    "/main-es5.15e66ba559251902bf5d.js": "30d15c3581d8f6acf46fe4f1fffa9bfba9bb245f",
+    "/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
+    "/polyfills-es5.6696c533341b95a3d617.js": "6bff0c03e05bb347d213ad1b3674045eb892d189",
+    "/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.49d133be8bd0ffe30f6b.css": "db050f5e962512d27c3059ea608d074a273eb656"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
